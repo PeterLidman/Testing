@@ -1,0 +1,3867 @@
+Badmintongänget:
+------------------------------
+Ulf Larsson
+Terje Vikingsson
+Stig Agnar
+Stefan Johansson
+Sara Emardsson
+Robert Welin
+Pia Karlsson
+Peter Oja
+Peter Michael
+Peter Lidman
+Peter Liberg
+Peter Engström
+Per Örbäck
+Per Stollenwerk
+Patrik Kanthe
+Niklas Karklins
+Mosawer Ahmad
+Martin Karsberg
+Markus Wallander
+Mats Thorén
+Malin Sundin
+Lenn Näsström
+Leif Gullander
+Lars-Olof Aridun
+Katarina Enblom
+Jörgen Sedin
+Jonas Granath
+Johan Rudholm
+Joakim Eriksson
+Joakim Boström
+Joachim Hagedorn
+Jim Viitanen
+Jessica Alhbin
+Jenny Svärd
+Göran Runberger
+Gustav Jansson
+Gustav Bengtsson
+Frida Williamsson
+Fredrik Hagbranth
+Fredrik Gustavsson
+Emelie Tyvik
+David Käck
+Daniel Forsberg
+Christer Lund
+Björn Andersson
+Bernt Svedberg
+Anders Martinsson
+Anders Klavmark
+
+
+2009-03-05 B#1
+---------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Jim Viitanen
+e: Gustav Jansson
+f: Fredrik Gustavsson
+g: Anders Martinsson
+h: Jonas Granath
+
+ab-cd 21-11
+ef-gh 6-21
+
+ab-ef 21-18
+cd-gh 16-21
+
+ab-gh 17-21
+cd-ef 11-21
+
+
+2009-03-13 B#2
+-----------------
+a: Anders Martinsson
+b: Markus Wallander
+c: Jim Viitanen
+d: Peter Lidman
+e: David Käck
+f: Gustav Jansson
+g: Stig Agnar
+h: Leif Gullander
+
+ab-cd 9-21
+ef-gh 20-22
+
+ab-ef 17-21
+cd-gh 19-21
+
+ab-gh 23-21
+cd-ef 15-21
+
+
+2009-04-08 B#3
+---------------
+a: Stig Agnar
+b: Peter Lidman
+c: David Käck
+d: Anders Martinsson
+
+ab-cd 16-21
+
+ac-bd 20-22
+
+ad-bc 16-21
+
+a-c 21-16
+b-d 9-21
+
+
+2009-04-17 B#4
+----------------
+a: Peter Lidman
+b: Patrik Kanthe
+c: Anders Martinsson
+d: Stig Agnar
+e: Leif Gullander
+f: Mats Nordström
+
+cd-ef 20-22
+
+c-d 21-15
+ab-ef 21-16
+
+ab-cd 20-22
+
+
+2009-04-24 B#5
+------------------
+a: Jonas Granath
+b: Stig Agnar
+c: Peter Lidman
+d: Leif Gullander
+e: Patrik Kanthe
+f: Mats Nordström
+
+c-d 21-11
+
+cd-ef 21-11
+
+
+2009-05-07 B#6 
+-----------------
+a: Peter Lidman
+b: Stig Agnar
+c: Leif Gullander
+d: Mats Nordström
+
+ac-bd 17-21
+
+ad-bc 7-21
+
+ab-cd 21-18
+
+
+2009-05-15 B#7
+------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Lars-Olof Aridun
+e: Jonas Granath
+f: David Käck
+
+ac-ef 21-14
+
+c-e 21-9
+bd-af 21-10
+
+a-f 21-17
+de-bc 12-21
+
+
+2009-05-20 B#8
+------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Jonas Granath
+
+ab-cd 21-13
+
+ac-bd 21-18
+
+ad-bc 15-21
+
+
+2009-05-28 B#9
+-------------------
+a: Fredrik Gustavsson
+b: Peter Lidman
+c: David Käck
+d: Jonas Granath
+e: Stig Agnar
+f: Jim Viitanen
+
+ac-ef 21-7
+
+c-e 21-12
+bd-af 21-6
+
+a-f 21-13
+de-bc 12-21
+
+a-f 21-13
+bd-ce 18-21
+
+
+2009-06-05 B#10
+------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Jonas Granath
+
+ac-bd 14-21
+
+ad-bc 21-23
+
+ab-cd 21-12
+
+
+2009-06-12 B#11
+--------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Mats Nordström
+d: Leif Gullander
+e: David Käck
+f: Anders Martinsson
+
+b-d 23-21
+ac-ef 21-18
+
+c-e 21-13
+bd-af 5-21
+
+a-f 21-14, 18-21
+dc-be 21-13
+
+
+2009-06-18 B#12
+--------------------
+a: Lars-Olof Aridun
+b: David Käck
+c: Anders Martinsson
+d: Leif Gullander
+e: Jonas Granath
+f: Peter Lidman
+
+b-d 16-21, 21-13, 21-12
+ac-ef 10-21
+
+c-e 21-8
+bd-af 21-12
+
+dc-be 21-12
+
+
+2009-08-28 B#13
+--------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Leif Gullander
+d: Lars-Olof Aridun
+
+ab-cd 21-11
+
+ac-bd 21-5
+
+ad-bc 21-17, 21-13
+
+
+2009-09-03 B#14
+------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Leif Gullander
+d: Lars-Olof Aridun
+
+ab-cd 21-12
+
+ac-bd 21-15
+
+ad-bc 22-20, 21-16
+
+
+2009-09-11 B#15
+--------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Anders Martinsson
+d: Lars-Olof Aridun
+
+ab-cd 21-5
+
+ac-bd 21-8
+
+ad-bc 18-21, 21-19
+
+
+2009-09-18 B#16
+--------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Lars-Olof Aridun
+e: Gustav Jansson
+f: Anders Martinsson
+
+b-e 21-15
+fd-ac 12-21
+
+be-ac 21-18
+d-f 4-21
+
+ef-db 11-21
+c-a 19-21
+
+e-f 21-19
+db-ac 21-19
+
+
+2009-09-25 B#17
+--------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Gustav Jansson
+d: Lars-Olof Aridun
+
+ad-bc 21-15, 20-22
+
+a-c 21-17
+b-d 21-8
+
+b-c 21-15
+
+
+2009-10-02 B#18
+--------------------
+a: Stig Agnar
+b: Peter Oja
+c: Peter Lidman
+d: Lars-Olof Aridun
+e: Gustav Jansson
+f: Robert Aridun
+
+ab-ef 21-16
+
+ab-cd 11-21 
+e-f 21-11
+
+ef-cd 11-21
+
+d-f 17-21
+
+
+2009-10-09 B#19
+--------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Lars-Olof Aridun
+e: David Käck
+
+be-ac 11-6, 12-10
+bd-ae 5-11, 11-8
+bd-ac 7-11, 12-10
+bd-ce 11-7
+ad-ce 6-11
+
+
+2009-10-16 B#20
+----------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Leif Gullander
+d: Lars-Olof Aridun
+
+bd-ac 17-21, 17-21
+bc-ad 19-21
+ab-cd 21-15
+
+
+2009-10-23 B#21
+----------------------
+a: Peter Lidman
+b: Josefin Gustafsson
+c: Peter Oja
+d: Stig Agnar
+e: David Käck
+f: Gustav Jansson
+g: Lars-Olof Aridun
+h: Anders Martinsson
+
+ab-cd 21-17
+ef-gh 21-18
+
+ab-ef 10-21
+cd-gh 4-21
+
+ab-gh 17-21
+cd-ef 17-21
+
+
+2009-10-30 B#22
+-------------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Jim Viitanen
+e: Gustav Jansson
+f: Robert Aridun
+
+ac-ef 15-21
+
+bd-ef 14-21
+
+bd-ac 21-18
+e-f 21-18
+
+ac-df 21-10
+b-e 21-13
+
+a-e 12-21
+d-f 17-21
+
+
+2009-11-06 B#23
+-------------------------
+a: Gustav Jansson
+b: Josefin Gustafsson
+c: Stig Agnar
+d: Lars-Olof Aridun
+e: Peter Lidman
+
+ab-cd 4-7, 4-7
+
+ac-be 7-5, 8-6
+
+ad-be 4-7, 7-5
+
+ac-de 9-7, 1-7
+
+be-cd 2-7, 6-8
+
+
+2009-11-13 B#24
+-------------------------
+a: Stig Agnar
+b: Jim Viitanen
+c: Gustav Jansson
+d: Peter Lidman
+
+ab-cd 9-21
+ac-db 11-21, 19-21
+ad-bc 21-10
+a-c 17-21
+
+
+2009-12-04 B#25
+-------------------------
+a: Gustav Jansson
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Sara Emardsson
+e: Anders Martinsson
+f: Stig Agnar
+
+ab-ef 15-21
+
+ab-cd 17-21
+e-f 19-21
+
+a-d 21-11
+ef-cd 21-8
+
+f-a 12-21
+d-b 17-21
+
+
+2009-12-11 B#26
+-------------------------
+a: Peter Lidman
+b: Martin Karsberg
+c: Anders Martinsson
+d: Daniel Ehn
+e: Stig Agnar
+f: Lars-Olof Aridun
+g: Jim Viitanen
+
+ab-cd 21-13
+e-f 8-6
+e-g 7-1
+f-g 1-7
+
+df-eg 15-21
+a-b 8-6
+a-c 7-5
+b-c 4-7
+
+af-ce 13-21
+d-g 8-6
+d-b 7-4
+g-b 1-7
+
+ce-fg 21-12
+a-g 7-5
+
+
+2010-01-15 B#27
+-------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Leif Gullander
+d: Peter Lidman
+e: Gustav Jansson
+f: Erik Naeslund
+g: David Käck
+h: Martin Karsberg
+
+ah-bg 21-12
+cf-de 8-21
+
+ac-hf 12-21
+bd-ge 21-18
+
+af-be 21-13
+ch-dg 20-22
+
+d-a 11-5
+g-c 21-15
+
+f-e 21-15, 21-9
+
+
+2010-01-22 B#28
+-------------------------
+a: Stig Agnar
+b: Gustav Jansson
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+ac-bd 17-21
+
+ad-bc 23-25
+
+ab-cd 21-18
+
+a-c 21-3
+b-d 16-21
+
+
+2010-02-05 B#29
+-------------------------
+a: Gustav Jansson
+b: Lars-Olof Aridun
+c: Stig Agnar
+d: Peter Lidman
+
+ac-bd 18-21
+
+bc-ad 19-21
+
+ab-cd 10-21
+
+a-c 19-21, 21-17
+
+
+2010-03-05 B#30
+-------------------------
+a: Lars-Olof Aridun
+b: David Käck
+c: Stig Agnar
+d: Peter Lidman
+
+ab-cd 5-21
+ac-bd 14-21
+ad-bc 21-19, 11-21
+
+
+2010-03-12 B#31
+-------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Emma Svenbrant
+d: Peter Lidman
+
+a-b 21-12
+ab-cd 25-23, 22-20
+
+
+2010-03-26 B#32
+-------------------------
+a: Leif Gullander
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+ad-bc 21-16, 21-16
+cd-ab 21-14
+bd-ac 21-9
+
+
+2010-04-01 B#33
+-------------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Anders Martinsson
+d: Sara Emardsson
+e: Leif Gullander
+f: Lars-Olof Aridun
+
+bc-ae 21-15
+
+cd-ef 16-21
+b-a 21-9
+
+bd-af 16-21
+c-e 21-8
+
+ae-cf 21-14
+
+
+2010-04-09 B#34
+-------------------------
+a: Lars-Olof Aridun
+b: Emma Svenbrant
+c: Anders Martinsson
+d: Stig Agnar
+e: Gustav Jansson
+f: Peter Lidman
+
+ad-ce 18-21
+
+bf-ae 21-8
+c-d 21-13
+
+a-e 11-21
+bc-df 11-21
+
+de-cf 13-21
+b-a 16-21
+
+
+2010-04-16 B#35
+-------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+
+ab-cd 15-21
+ad-bc 21-15
+ac-bd 18-21
+a-c 22-20
+
+
+2010-04-23 B#36
+------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Jim Viitanen
+
+ab-cd 18-21, 22-20
+ac-bd 21-11
+ad-bc 16-21
+
+
+2010-04-30 B#37
+------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Jim Viitanen
+
+ac-bd 21-9
+ad-bc 21-15
+ab-cd 20-22, 25-23
+
+
+2010-05-07 B#38
+------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Jim Viitanen
+
+a-c 15-21, 16-21
+a-d 21-8
+
+
+2010-05-12 B#39
+------------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Peter Liberg
+d: Leif Gullander
+
+a-d 21-15
+bc-ad 16-21, 19-21, 21-11
+
+
+2010-05-21 B#40
+-----------------------
+a: Stig Agnar
+b: Sara Emardsson
+c: Peter Lidman
+d: Emma Svenbrant
+
+ab-cd 10-21
+ad-bc 21-16, 21-19
+c-a 11-1,11-6
+
+
+2010-05-28 B#41
+------------------------
+a: Stig Agnar
+b: Peter Liberg
+c: Peter Lidman
+d: Lars-Olof Aridun
+
+ac-bd 21-11
+ad-bc 11-21
+ab-cd 13-21, 21-15
+
+
+2010-06-04 B#42
+------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Peter Lidman
+d: Lars-Olof Aridun
+
+ad-bc 21-15, 21-13, 21-16, 11-21
+
+
+2010-06-18 B#43
+------------------------
+a: Lars-Olof Aridun
+b: Emma Svenbrant
+c: Peter Lidman
+d: Gustav Jansson
+
+ab-cd 9-21
+ac-bd 21-15
+ad-bc 24-22
+c-d 11-6, 11-6
+
+
+2010-08-20 B#44
+-------------------------
+a: Per Örbäck
+b: Lars-Olof Aridun
+c: Stig Agnar
+d: Peter Lidman
+
+ad-bc 21-11
+ac-bd 9-21
+ab-cd 9-21
+
+
+2010-08-27 B#45
+------------------------
+a: Per Örbäck
+b: Peter Lidman
+c: Peter Oja
+d: Stig Agnar
+e: Lars-Olof Aridun
+
+bc-ad 11-9, 11-8
+dc-be 11-9, 11-4
+ae-cd 16-14, 9-11
+bd-ae 11-5, 11-9
+be-ac 11-1, 11-8
+
+
+2010-09-03 B#46
+------------------------
+a: Per Örbäck
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Stig Agnar
+
+ad-bc 13-21
+a-d 11-21
+c-d 17-21
+a-b 11-21
+ab-cd 21-19
+
+
+2010-09-10 B#47
+-----------------------
+a: Peter Oja
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+ab-cd 10-21
+ac-bd 6-21
+ad-bc 21-14, 13-21
+
+
+2010-09-17 B#48
+-----------------------
+a: Peter Lidman
+b: Lars-Olof Aridun
+c: Stig Agnar
+d: Jonas Granath
+
+ad-bc 21-19, 19-21, 21-15
+
+
+2010-09-24 B#49
+------------------------
+a: Fredrik Hagbranth
+b: David Käck
+c: Stig Agnar
+d: Lars-Olof Aridun
+e: Peter Lidman
+
+ad-bc 2-11
+ac-be 8-11
+ab-de 4-11
+ae-cd 2-11
+ec-bd 11-7
+
+
+2010-10-01 B#50
+------------------------
+a: Peter Oja
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Stig Agnar
+
+ab-cd 15-21, 21-18, 21-15
+
+
+2010-10-08 B#51
+-------------------------
+a: David Käck
+b: Leif Gullander
+c: Stig Agnar
+d: Lars-Olof Aridun
+e: Fredrik Hagbranth
+f: Peter Lidman
+
+ab-cd 21-19
+
+ef-bd 21-23
+a-c 21-12
+
+af-ce 21-6
+b-d 21-16
+
+be-cd 6-21
+
+
+2010-10-15 B#52
+-------------------------
+a: Gustav Bengtsson
+b: Peter Lidman
+c: Leif Gullander
+d: David Käck
+e: Lars-Olof Aridun
+f: Stig Agnar
+
+be-cd 21-15
+
+b-d 21-8
+af-ce 17-21
+
+ab-df 13-21
+
+
+2010-10-29 B#53
+-------------------------
+a: Gustav Bengtsson
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+bc-ad 21-15, 21-19, 17-21, 21-8
+
+
+2010-11-12 B#54
+-------------------------
+a: Leif Gullander
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Gustav Bengtsson
+e: Peter Lidman
+
+ab-de 11-9, 11-6
+
+ac-bd 4-11, 11-7
+
+ae-bc 11-9, 6-11
+
+ad-ce 5-11
+
+cd-be 1-11
+
+
+2010-11-19 B#55
+-----------------------
+a: Peter Oja
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Stig Agnar
+e: Peter Lidman
+
+ab-cd 4-11, 2-11
+
+bd-ce 13-11, 12-10
+
+ae-cd 11-9, 11-6
+
+ae-bd 13-11
+
+ab-ce 6-11
+
+
+2010-11-26 B#56
+-----------------------
+a: Gustav Bengtsson
+b: Leif Gullander
+c: Lars-Olof Aridun
+d: Peter Lidman
+e: Fredrik Hagbranth
+f: Peter Oja
+
+bc-ad 21-8
+bf-ce 12-21
+ef-ad 6-21
+ab-cd 21-17
+f-e 21-16
+b-c 14-12
+
+
+2010-12-2 B#57
+-----------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Peter Lidman
+
+bd-ac 21-11
+ab-cd 19-21, 22-24
+ad-bc 21-8
+
+
+2010-12-10 B#58
+-----------------------
+a: Christer Lund
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Stig Agnar
+
+ab-cd 21-16, 9-21, 16-21
+
+
+2010-12-17 B#59
+-----------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Fredrik Hagbranth
+e: Christer Lund
+f: Gustav Bengtsson
+g: Leif Gullander
+h: Peter Oja
+
+ab-cd 21-13
+ef-gh 10-21
+
+ad-eh 21-14
+bc-fg 21-9
+
+af-dg 4-21
+be-ch 11-21
+
+ah-bg 22-20
+cf-ed 21-11
+
+
+2011-01-14 B#60
+-------------------------
+a: Peter Lidman
+b: Gustav Bengtsson
+c: Stig Agnar
+d: Fredrik Hagbranth
+e: Gustav Jansson
+f: Lars-Olof Aridun
+g: Leif Gullander
+h: Christer Lund
+
+ab-cd 21-17
+gh-ef 20-22
+
+ab-ef 19-21
+cd-gh 17-21
+
+ab-gh 21-17
+cd-ef 17-21
+
+a-e 11-9, 11-8
+g-f 21-15
+
+
+2011-01-21 B#61
+-------------------------
+a: Christer Lund
+b: Gustav Bengtsson
+c: Stig Agnar
+d: Lars-Olof Aridun
+e: Peter Lidman
+
+ab-cd 4-11, 6-11
+bc-de 12-10, 5-11
+cd-ea 11-7, 9-11
+de-ab 11-4
+ac-be 11-8
+
+
+2011-01-28 B#62
+--------------------------
+a: Jessica Alhbin
+b: David Käck
+c: Gustav Jansson
+d: Gustav Bengtsson
+e: Lars-Olof Aridun
+f: Stig Agnar
+g: Christer Lund
+h: Peter Lidman
+
+ah-bg 21-17
+ce-df 15-21
+
+af-ch 12-21
+be-dg 21-10
+
+ac-bd 21-19
+ef-gh 21-14
+
+ag-de 19-21
+fh-bc 21-13
+
+h-c 8-6
+
+
+2011-02-04 B#63
+-------------------------
+a: Jessica Alhbin
+b: Gustav Jansson
+c: Gustav Bengtsson
+d: Peter Lidman
+e: Lars-Olof Aridun
+f: Stig Agnar
+
+ab-ef 21-10
+ef-cd 21-12
+ab-cd 21-23
+
+d-e 21-11
+a-c 21-11
+b-f 15-21, 9-21
+e-f 15-21
+
+
+2011-02-21 B#64
+-------------------------
+a: Jessica Alhbin
+b: Stig Agnar
+c: Fredrik Hagbranth
+d: David Käck
+e: Peter Oja
+f: Gustav Bengtsson
+g: Lars-Olof Aridun
+
+ab-cd 17-21
+g-ef 19-21
+
+bf-cg 21-14
+d-ae 21-5
+
+ce-gd 14-21
+b-af 21-6
+
+a-c 21-14
+e-f 21-15
+b-d 19-21
+
+
+2011-02-28 B#65
+-------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Gustav Jansson
+e: Peter Lidman
+
+ce-ab 19-17 <--(OBS! Vi gick till 11)
+ac-bd 7-11
+ad-be 11-2
+cd-ae 7-11
+bc-de 5-11
+d-a 8-21
+b-c 11-7
+d-e 9-11
+
+
+2011-03-04 B#66
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+
+ab-cd 14-21
+ac-bd 21-14, 24-22
+ad-bc 21-7
+
+a-bc 5-3, 3-5
+c-ab 5-1, 5-3
+b-ac 2-5, 1-5
+
+
+2011-03-11 B#67
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Gustav Bengtsson
+
+ad-bc 22-20, 21-15, 21-17
+a-c 21-19, 21-12
+
+
+2011-03-18 B#68
+--------------------------
+a: Stig Agnar
+b: David Käck
+c: Christer Lund
+d: Gustav Bengtsson
+e: Peter Lidman
+
+ad-bc 11-4, 5-11
+ab-ce 8-11, 6-11
+ab-de 11-5, 11-3
+ac-de 4-11, 11-5
+bd-ce 11-9, 11-3
+
+
+2011-03-25 B#69
+--------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Christer Lund
+d: Mats Thorén
+e: Gustav Jansson
+f: Peter Lidman
+
+ab-ce 21-16, 17-21
+
+df-bc 21-12, 21-17
+a-e 21-18, 14-21
+
+da-fe 12-21
+
+
+2011-04-01 B#70
+--------------------------
+a: Stig Agnar
+b: Peter Oja
+c: Lars-Olof Aridun
+d: Gustav Bengtsson
+e: Christer Lund
+f: Mats Thorén
+g: Gustav Jansson
+h: Peter Lidman
+
+ag-ch 15-21
+bf-de 15-21
+
+af-bd 21-13
+cg-eh 15-21
+
+ad-gf 19-21
+be-ch 2-21
+
+eh-cb 21-11
+a-g 10-21, 19-21
+
+
+2011-04-08 B#71
+--------------------------
+a: Stig Agnar
+b: Peter Oja
+c: Lars-Olof Aridun
+d: Gustav Bengtsson
+e: Christer Lund
+f: Gustav Jansson
+g: Peter Lidman
+
+bg-de 21-13
+a-cf 21-15
+
+af-cg 22-20
+b-de 21-16
+
+b-c 9-11
+d-e 15-21
+a-f 24-26
+
+
+2011-04-15 B#72
+--------------------------
+a: Christer Lund
+b: Lukas Hammargren
+c: Fredrik Gustavsson Voldi
+d: Gustav Jansson
+e: Gustav Bengtsson
+f: Stig Agnar
+g: Peter Lidman
+
+ae-bc 16-21, 11-13
+d-g 16-21
+f-d 21-17
+
+db-fc 17-21
+
+b-c 21-10
+fa-eg 21-13
+
+d-b 21-10
+c-a 21-19
+
+
+2011-04-29 B#73
+--------------------------
+a: Gustav Bengtsson
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+ad-bc 16-21, 21-19, 15-21
+b-d 14-21
+
+
+2011-05-06 B#74
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Hagbranth
+d: Fredrik Gustavsson Voldi
+e: Gustav Bengtsson
+f: Peter Lidman
+g: Christer Lund
+
+ac-de 21-10
+bf-g 21-18
+
+gb-fe 21-18
+a-cd 11-9
+c-da 9-11
+
+ab-df 12-21
+c-ge 9-11
+ce-g 13-11
+
+a-f 21-16
+e-cg 3-11
+c-eg 8-11
+
+
+2011-05-13 B#75
+--------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Christer Lund
+d: Lars-Olof Aridun
+
+ab-cd 19-21, 20-22, 21-15, 21-15, 13-11
+
+
+2011-05-20 B#76
+--------------------------
+a: Fredrik Hagbranth
+b: Peter Lidman
+c: Stig Agnar
+d: Gustav Bengtsson
+e: Lars-Olof Aridun
+f: Christer Lund
+
+ab-cd 16-21, 16-21
+
+ab-ef 18-21
+
+cd-ef 21-10
+a-b 3-21
+
+cf-be 20-22
+
+
+2011-05-27 B#77
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Peter Lidman
+
+ab-cd 16-21, 21-9, 21-18, 19-21
+
+
+2011-06-01 B#78
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Gustav Jansson
+e: Peter Lidman
+f: Christer Lund
+
+a-d 17-21
+bf-ec 15-21
+
+af-db 21-18
+
+af-bc 21-8
+d-e 17-21
+
+a-b 21-15
+ce-df 21-14
+
+
+2011-06-10 B#79
+--------------------------
+a: Stig Agnar
+b: Peter Oja
+c: Lars-Olof Aridun
+d: Fredrik Gustavsson Voldi
+e: Gustav Jansson
+f: Peter Lidman
+
+ab-cd 20-22
+e-f 10-21
+
+ae-bf 21-18
+c-d 21-15
+
+cf-de 18-21
+a-b 21-10
+
+a-e 21-19
+bf-cd 21-18
+
+
+2011-06-17 B#80
+--------------------------
+a: Johan Rudholm
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Jessica Alhbin
+e: Joakim Eriksson
+f: Gustav Bengtsson
+g: Gustav Jansson
+h: Peter Oja
+i: Jonas Granath
+j: Fredrik Gustavsson Voldi
+
+hd-fj 22-20
+c-g 11-21
+
+ab-ei 9-21
+cd-fg 15-21
+h-j 17-21
+
+bh-aj 10-21
+d-f 21-15
+ce-gi 11-21
+
+bd-fi 21-19
+cg-hj 21-10
+a-e 5-21
+
+j-c 11-7
+j-a 11-2
+h-e 15-21
+c-f 10-21
+
+
+2011-06-23 B#81
+--------------------------
+a: Peter Lidman
+b: Johan Rudholm
+c: Gustav Bengtsson
+d: Christer Lund
+e: Fredrik Gustavsson Voldi
+f: Lars-Olof Aridun
+
+fc-ed 22-20, 13-21
+
+ab-cd 21-15
+e-f 22-20
+
+be-fa 4-21
+
+
+2011-07-08 B#82
+--------------------------
+a: Peter Oja
+b: Gustav Bengtsson
+c: Christer Lund
+d: Niklas Karklins
+e: Fredrik Gustavsson Voldi
+f: Peter Lidman
+
+ae-bc 23-21, 18-21
+
+fa-cd 21-14
+e-b 21-12
+
+df-be 19-21
+a-c 9-21
+
+
+2011-08-19 B#83
+--------------------------
+a: Joakim Eriksson
+b: Fredrik Gustavsson Voldi
+c: Stig Agnar
+d: Peter Lidman
+
+ad-bc 21-14
+ac-bd 21-10
+cd-ab 21-11
+d-c 21-14
+a-c 16-21
+
+
+2011-09-02 B#84
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Gustav Jansson
+
+ad-bc 16-21
+ac-bd 21-10
+ab-cd 17-21
+c-d 17-21
+a-b 21-12
+
+
+2011-09-09 B#85
+--------------------------
+a: Lars-Olof Aridun
+b: Christer Lund
+c: Anders Martinsson
+d: Peter Lidman
+
+bd-ac 21-19, 21-15
+ad-bc 21-11
+ab-cd 6-21
+d-c 15-21
+a-b 21-11
+
+
+2011-09-23 B#86
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Anders Martinsson
+e: Peter Lidman
+
+ab-cd 11-6
+bd-ce 5-11
+de-ac 12-10
+ad-be 12-14
+ae-bc 13-11
+a-be 21-17
+c-d 21-19
+
+
+2011-09-30 B#87
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Gustav Jansson
+
+ab-cd 15-21
+ac-bd 21-10
+ad-bc 21-11, 10-21
+
+b-c 10-21
+a-d 21-14
+
+
+2011-10-07 B#88
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Peter Lidman
+
+bd-ac 21-15, 19-21, 21-19
+ab-cd 9-21
+ad-bc 21-5
+
+
+2011-10-14 B#89
+--------------------------
+a: Lars-Olof Aridun
+b: Joakim Eriksson
+c: Christer Lund
+d: Peter Lidman
+
+ac-bd 13-21, 10-21
+ab-cd 10-21, 14-21
+ad-bc 21-11
+
+
+2011-10-21 B#90
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Peter Lidman
+
+ab-cd 16-21
+ac-bd 21-23, 19-21, 21-12
+ad-bc 21-7
+
+
+2011-10-28 B#91
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+
+ab-cd 12-21, 19-21
+ac-bd 21-12
+ad-bc 21-14, 21-10
+
+
+2011-11-04 B#92
+--------------------------
+a: Stig Agnar
+b: Christer Lund
+c: Peter Oja
+d: Peter Lidman
+
+ab-cd 21-19, 22-24
+ac-bd 17-21
+ad-bc 21-9
+
+
+2011-11-11 B#93
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+
+ab-cd 10-21
+ac-bd 21-18, 21-18
+ad-bc 21-17, 21-7
+
+
+2011-11-18 B#94
+--------------------------
+a: Gustav Jansson
+b: Peter Lidman
+c: Lars-Olof Aridun
+d: Stig Agnar
+e: Christer Lund
+f: Niklas Karklins
+
+de-bc 21-17
+a-f 21-9
+
+ac-fd 21-12
+b-e 21-5
+
+ae-bf 22-20
+c-d 11-21
+
+a-b 21-13
+c-f 21-9
+d-e 21-5
+
+
+2011-11-25 B#95
+--------------------------
+a: Peter Lidman
+b: Peter Liberg
+c: Stig Agnar
+d: Lars-Olof Aridun
+e: Fredrik Gustavsson Voldi
+d: Gustav Jansson
+
+cd-ef 18-21
+
+ab-de 21-18
+c-f 16-21
+
+d-e 21-18
+ac-bf 21-14
+
+a-f 21-19
+cd-be 21-9
+
+
+2011-12-09 B#96
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Joakim Eriksson
+d: Jessica Alhbin
+e: Göran Runberger
+f: Peter Lidman
+
+ad-bc 21-16, 21-12
+
+ef-ad 17-21
+b-c 22-20
+
+bc-ef 21-17
+a-d 21-8
+
+
+2011-12-16 B#97
+--------------------------
+a: Peter Lidman
+b: Gustav Jansson
+c: Christer Lund
+d: Lars-Olof Aridun
+e: Stig Agnar
+
+ad-be 7-11
+bd-ce 9-11, 11-5
+ae-cd 11-3
+ac-be 11-6
+ad-bc 5-11
+ab-de 11-3
+ad-ce 6-11
+e-b 11-6
+
+
+2011-12-21 B#98
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+
+a-bc 11-7, 11-8, 13-11
+ab-c 6-11, 7-11, 9-11
+ac-b 11-2, 11-1
+
+
+2012-01-13 B#99
+--------------------------
+a: Peter Lidman
+b: Stig Agnar
+c: Gustav Jansson
+d: Lars-Olof Aridun
+e: Fredrik Gustavsson Voldi
+f: Gustav Bengtsson
+
+ae-dc 20-22
+
+ad-eb 23-21
+
+cf-ad 17-21
+b-e 21-8
+
+bf-de 15-21
+a-c 21-15
+
+
+2012-01-20 B#100
+--------------------------
+a: Ulf Larsson
+b: Robert Welin
+c: Christer Lund
+d: Gustav Jansson
+e: Stig Agnar
+f: Peter Lidman
+g: Peter Oja
+h: Fredrik Gustavsson Voldi
+i: Gustav Bengtsson
+j: Lars-Olof Aridun
+
+hd-gc 21-12
+hd-bf 21-17
+c-g 21-15
+h-d 21-11
+ij-bf 21-17
+ag-ci 14-21
+d-e 21-16
+ae-gc 21-23
+ei-aj 21-15
+bf-hj 21-17
+ci-ag 21-17
+
+
+2012-01-27 B#101
+--------------------------
+a: Lars-Olof Aridun
+b: Gustav Jansson
+c: Peter Lidman
+d: Stig Agnar
+e: Anders Martinsson
+f: Christer Lund
+g: Gustav Bengtsson
+
+bc-de 15-21
+a-g 11-9
+b-f 6-11
+b-e 11-8
+af-gd 15-21
+c-b 9-11
+d-e 21-14, 11-8
+ac-bg 21-18
+c-e 11-6
+ad-fb 11-8
+
+
+2012-02-03 B#102
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Christer Lund
+e: Emelie Tyvik
+f: Peter Lidman
+g: Joakim Eriksson
+
+ad-cg 21-19
+ef-bd 23-25
+a-c 11-5
+a-g 11-9
+c-g 11-6
+ce-ab 15-21
+d-g 7-11
+f-g 11-2
+bg-df 16-21
+e-c 12-21
+
+
+2012-02-10 B#103
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Joakim Eriksson
+d: Peter Lidman
+
+ab-cd 16-21
+ac-bd 21-17, 16-21
+ad-bc 21-10
+
+
+2012-02-17 B#104
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Emelie Tyvik
+d: Lars-Olof Aridun
+
+ab-cd 21-15, 21-5
+ac-bd 19-21, 21-14
+ad-bc 21-13
+
+
+2012-02-24 B#105
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Gustav Bengtsson
+e: Fredrik Gustavsson
+f: Peter Lidman
+
+ab-cd 21-11
+e-f 13-21
+
+ac-ef 21-17
+
+be-df 13-21
+a-c 15-21
+
+a-e 21-9
+bc-df 21-18
+
+
+2012-03-02 B#106
+--------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Christer Lund
+d: Peter Lidman
+e: Joakim Eriksson
+f: Fredrik Gustavsson
+g: Gustav Jansson
+h: Lars-Olof Aridun
+
+ch-ge 11-21
+af-db 15-21
+
+ge-bd 17-21
+ch-af 15-21
+
+bd-ch 21-18
+af-ge 21-15
+
+d-g 20-22
+be-hc 15-21, 11-8
+a-e 21-12
+
+
+2012-03-09 B#107
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Martin Karsberg
+e: Stefan Johansson
+f: Peter Lidman
+
+bc-ad 21-19
+
+b-c 12-21
+ef-ad 21-15
+
+a-d 21-15
+bc-ef 19-21
+
+b-e 12-25
+a-c 21-15
+
+
+2012-03-16 B#108
+--------------------------
+a: Lars-Olof Aridun
+b: Fredrik Gustavsson
+c: Stefan Johansson
+d: Peter Lidman
+e: Joakim Boström
+
+be-cd 11-5
+
+ae-cd 11-9
+
+bd-ae 11-13
+
+be-ac 8-11
+
+ad-bc 8-11
+
+d-e 9-21, 4-11
+a-bc 8-11
+ab-c 11-9
+ac-b 12-14
+
+
+2012-03-23 B#109
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Stefan Johansson
+e: Joakim Boström
+f: Peter Lidman
+
+af-de 19-21
+ce-bd 21-16
+a-f 17-21
+c-d 8-21
+be-af 17-21
+cf-ad 21-17
+b-e 3-21,2-21
+
+
+2012-03-30 B#110
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Stefan Johansson
+e: Gustav Jansson
+f: Peter Lidman
+
+ae-df 12-21
+
+cf-bd 14-21
+e-a 21-17
+
+be-ac 20-22
+d-f 15-21
+
+
+2012-04-05 B#111
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Lars-Olof Aridun
+d: Christer Lund
+
+ab-cd 22-24, 21-16, 21-14, 21-14
+
+
+2012-04-13 B#112
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Stefan Johansson
+d: Fredrik Gustavsson
+e: Christer Lund
+f: Peter Lidman
+
+d-f 12-21
+ab-ce 21-13
+
+a-e 21-18
+be-df 12-21
+
+af-cd 21-18
+
+a-d 21-6
+
+
+2012-04-20 B#113
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Peter Lidman
+e: Christer Lund
+
+bc-ae 4-11, 12-10
+bd-ae 9-11, 12-10
+de-ac 11-9
+be-cd 5-11
+ad-bc 11-6
+
+
+2012-04-27 B#114
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Stefan Johansson
+e: Peter Lidman
+
+ab-cd 9-11
+ac-be 12-10
+ae-bd 11-7
+ad-ce 5-11
+bc-de 8-11
+
+a-c 19-21
+e-bd 12-10
+d-be 11-9
+b-d 7-11
+
+
+2012-05-04 B#115
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Stefan Johansson
+e: Martin Karsberg
+f: Peter Lidman
+
+ac-bd 13-21
+e-f 14-21
+
+ad-ef 19-21
+
+bf-ce 21-14
+a-d 23-25
+
+d-f 20-22
+ae-bc 18-21
+
+
+2012-05-25 B#116
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Fredrik Gustavsson
+e: Gustav Jansson
+f: Peter Lidman
+
+ac-bd 23-21
+e-f 15-21
+
+cf-be 21-15
+a-d 21-5
+
+ae-df 19-21
+
+a-e 15-21
+df-bc 21-15
+
+
+2012-06-01 B#117
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Christer Lund
+e: Gustav Jansson
+f: Peter Lidman
+
+ab-cd 21-6
+e-f 21-18
+
+ae-cf 15-21
+
+c-a 14-21
+de-bf 16-21
+
+a-e 21-18
+bc-df 14-21
+
+
+2012-06-15 B#118
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Stefan Johansson
+d: Peter Lidman
+
+ab-cd 6-21
+ac-bd 21-10
+ad-bc 21-12, 21-14
+
+
+2012-06-21 B#119
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Peter Lidman
+
+ad-bc 21-11
+ab-cd 22-20
+ac-bd 17-21
+
+
+2012-06-29 B#120
+--------------------------
+a: Lars-Olof Aridun
+b: Peter Lidman
+c: Gustav Jansson
+d: Fredrik Gustavsson
+e: Frida Williamsson
+f: Jim Viitanen
+g: Leif Gullander
+h: Gustav Bengtsson
+
+c-h 11-3
+ag-df 21-14
+
+be-ch 21-14
+af-dg 14-21
+
+ac-bd 12-21
+eg-fh 21-19
+
+ce-fg 16-21
+b-ad 21-10
+
+g-e 21-9
+
+
+2012-07-06 B#121
+--------------------------
+a: Lars-Olof Aridun
+b: Fredrik Gustavsson
+c: Gustav Jansson
+d: Peter Lidman
+e: Niklas Karklins
+
+ab-c 21-19
+
+d-ce 21-14
+a-b 23-21
+
+e-ab 12-21
+d-c 21-19
+
+a-cd 13-21
+b-e 21-10
+
+
+2012-08-24 B#122
+--------------------------
+a: Peter Lidman
+b: Christer Lund
+c: Fredrik Gustavsson
+d: David Käck
+e: Martin Karsberg
+f: Stig Agnar
+
+ab-cd 22-20
+e-f 15-21
+
+ae-bf 18-21
+c-d 16-21
+
+ce-df 20-22
+a-b 21-12
+
+
+2012-08-31 B#123
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Stefan Johansson
+
+cd-ab 21-13
+ac-bd 21-11
+ad-bc 21-7, 21-14
+
+
+2012-09-07 B#124
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Christer Lund
+e: Peter Lidman
+f: Mosawer Ahmad
+
+ab-cd 17-21
+e-f 21-8
+
+ab-ef 16-21
+c-d 18-21
+
+cd-ef 8-21
+a-b 21-14
+
+c-e 13-21
+ad-bf 21-18
+
+
+2012-09-14 B#125
+--------------------------
+a: Stig Agnar
+b: Mosawer Ahmad
+c: Frida Williamsson
+d: Peter Lidman
+
+a-b 21-18
+
+ab-cd 21-15, 22-20
+
+ac-bd 7-21
+
+
+2012-09-21 B#126
+--------------------------
+s: Stig Agnar
+o: Peter Oja
+c: Christer Lund
+g: Gustav Jansson
+f: Frida Williamsson
+p: Peter Lidman
+j: Stefan Johansson
+l: Lars-Olof Aridun
+
+sc-oj 21-16
+gl-pf 21-17
+
+so-gf 14-21
+p-j 14-21
+
+gp-sj 21-13
+f-o 21-17
+
+p-o 11-1
+s-f 21-14
+g-j 7-11
+
+
+2012-09-28 B#127
+--------------------------
+p: Peter Lidman
+j: Stefan Johansson
+l: Lars-Olof Aridun
+s: Stig Agnar
+f: Frida Williamsson
+g: Gustav Jansson
+
+g-j 22-24
+pf-sl 21-16
+gf-lp 21-13
+s-j 9-21
+fj-gs 12-21
+fg-js 14-21
+
+
+2012-10-05 B#128
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Christer Lund
+e: Peter Lidman
+f: Frida Williamsson
+g: Mosawer Ahmad
+h: Stefan Johansson
+i: Anders Martinsson
+
+ab-cd 19-21
+h-i 11-9
+h-g 11-7
+g-i 11-7
+
+eg-fh 21-16
+i-a 21-19
+cd-b 11-7
+bc-d 11-5
+
+ai-ce 21-15
+g-b 21-10
+fh-d 11-9
+h-df 11-7
+
+be-gi 22-20
+a-h 21-13
+
+
+2012-10-12 B#129
+--------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Fredrik Gustavsson
+d: Christer Lund
+e: Stefan Johansson
+f: Frida Williamsson
+g: Peter Engström
+h: Peter Lidman
+i: Anders Martinsson
+j: Lars-Olof Aridun
+
+g-h 16-21
+ab-cd 24-26
+ej-fi 22-20
+
+aj-bi 21-4
+dh-ce 22-20
+f-g 11-21
+
+hi-ae 22-24, 21-15
+bg-cf 11-21
+
+f-c 19-21, 9-11
+gb-jb 15-13
+
+
+2012-10-19 B#130
+--------------------------
+s: Stig Agnar
+p: Peter Lidman
+f: Frida Williamsson
+g: Gustav Jansson
+l: Lars-Olof Aridun
+j: Stefan Johansson
+
+g-j 21-17
+pf-sl 18-21
+
+p-j 20-22
+sf-gl 8-21
+
+s-g 18-21
+fj-pl 13-21
+
+s-j 19-21
+l-f 17-21
+
+
+2012-10-26 B#131
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: fredrik Gustavsson
+d: Gustav Jansson
+e: Stefan Johansson
+f: Peter Lidman
+
+a-e 18-21
+fc-db 21-11
+
+cd-ae 15-21
+
+c-b 21-11
+af-ed 15-21
+
+e-d 21-12
+bf-ac 17-21
+
+
+2012-11-02 B#132
+--------------------------
+a: Peter Lidman
+b: Stefan Johansson
+c: fredrik Gustavsson
+d: Peter Engström
+e: Stig Agnar
+
+ad-bc 11-9
+ab-ce 11-5
+ae-bd 11-5
+ac-be 8-11
+cd-be 6-11
+ac-bd 7-11
+bc-ae 11-6
+ab-de 11-7
+b-e 21-18
+
+
+2012-11-09 B#133
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: fredrik Gustavsson
+d: Christer Lund
+e: Peter Lidman
+
+ab-cd 11-7, 11-7
+bc-de 12-10, 11-7
+ad-ce 3-11, 5-11
+ae-bd 11-6
+ac-be 9-11
+
+
+2012-11-16 B#134
+--------------------------
+a: Lars-Olof Aridun
+b: Peter Lidman
+c: Gustav Jansson
+d: Anders Martinsson
+e: Peter Engström
+f: Stefan Johansson
+g: Stig Agnar
+h: fredrik Gustavsson
+
+g-d 11-9
+c-f 6-11
+
+ab-ch 19-21
+
+de-fg 19-21
+
+cd-bg 11-21
+
+af-eh 19-21
+
+a-h 7-21
+b-c 14-21
+d-g 20-22
+e-f 21-15, 21-16
+
+
+2012-11-23 B#135
+--------------------------
+a: Peter Engström
+b: Gustav Jansson
+c: Stig Agnar
+d: Peter Lidman
+e: Lars-Olof Aridun
+
+
+ab-cd 6-11
+bc-de 11-6
+bd-ae 11-3
+ac-be 9-11
+ad-ce 4-11
+
+a-d 13-11
+c-b 9-11
+b-e 11-3
+d-c 6-11
+a-c 6-11
+b-d 11-7
+b-a 11-8
+
+
+2012-11-30 B#136
+--------------------------
+a: Anders Martinsson
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Peter Engström
+e: Stefan Johansson
+f: Fredrik Gustavsson
+g: Gustav Jansson
+h: Stig Agnar
+
+ab-cd 21-15
+ef-gh 13-21
+
+bc-de 13-21
+fg-ha 15-21
+
+af-be 21-19
+cg-dh 22-24
+
+g-c 21-11
+h-f 21-6
+a-b 21-8
+
+g-h 21-8
+d-e 21-19, 22-20
+
+
+2012-12-06 B#137
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Anders Martinsson
+d: Lars-Olof Aridun
+e: Mosawer Ahmad
+f: Stefan Johansson
+g: Peter Lidman
+h: Peter Engström
+
+ab-cd 21-10
+ef-gh 12-21
+
+ab-gh 18-21
+cd-ef 8-21
+
+ab-ef 11-21
+cd-gh 9-21
+
+a-f 21-10
+b-g 21-13
+c-h 16-21
+d-e 20-22
+
+
+2012-12-14 B#138
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Stefan Johansson
+d: Peter Engström
+e: Peter Lidman
+f: David Käck
+g: Lars-Olof Aridun
+
+
+ab-cd 13-21
+ef-g 11-4
+eg-f 14-12
+
+dg-ef 18-21
+
+bg-e 11-9
+b-ge 2-11
+
+c-d 12-21
+a-c 3-11
+b-a 6-11
+c-b 11-1
+a-c 11-6
+
+ac-df 21-13
+
+
+2012-12-20 B#139
+--------------------------
+a: Stig Agnar
+b: Gustav Jansson
+c: Fredrik Gustavsson
+d: Peter Lidman
+e: Peter Engström
+f: Lars-Olof Aridun
+
+e-b 17-21
+ac-df 20-22
+
+a-d 21-18
+bf-ce 21-23
+
+a-e 21-11
+bc-df 16-21
+
+
+2013-01-11 B#140
+--------------------------
+a: Stig Agnar
+b: Gustav Jansson
+c: Fredrik Gustavsson
+d: Anders Martinsson
+e: Peter Engström
+f: Peter Lidman
+g: Joachim Hagedorn
+
+df-eg 21-12
+b-c 12-10
+a-b 6-11
+a-c 11-8
+
+ac-be 11-21
+g-f 11-5
+g-d 9-11
+
+fg-ac 21-12
+e-b 11-8
+e-d 11-4
+b-d 11-6
+e-b 11-9
+
+
+2013-01-11 B#141
+--------------------------
+a: Stig Agnar
+b: Gustav Jansson
+c: Fredrik Gustavsson
+d: Christer Lund
+e: Peter Lidman
+
+ae-bc 6-11
+ad-bc 11-4
+de-bc 8-11
+de-ab 9-11
+de-ac 8-11
+be-ac 11-7
+bd-ac 11-7
+bd-ae 11-7
+bd-ae 6-11
+
+
+2013-02-01 B#142
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Joachim Hagedorn
+
+ac-bd 21-11
+ab-cd 19-21
+ad-bc 21-19, 21-7
+a-d 21-8
+
+
+2013-02-08 B#143
+--------------------------
+a: Joachim Hagedorn
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Fredrik Gustavsson
+c: Peter Lidman
+
+ac-bd 10-12
+bc-ae 11-9
+de-ab 7-11
+ad-ce 4-11
+cd-be 4-11
+c-de 2-11
+d-ce 7-11
+a-b 21-11
+
+
+2013-02-15 B#144
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Peter Lidman
+
+cd-ab 21-15
+bd-ac 16-21,21-17
+ad-bc 21-9
+
+
+2013-02-22 B#145
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Gustav Jansson
+e: Stefan Johansson
+f: Peter Lidman
+
+ab-cd 12-21
+e-f 21-10
+
+be-fc 10-21
+a-d 21-17
+
+ad-ef 19-21
+b-c 13-21, 11-8
+
+a-e 15-21
+fb-cd 22-24
+
+
+2013-03-01 B#146
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Engström
+d: Fredrik Gustavsson
+e: Gustav Jansson
+f: Anders Martinsson
+g: Stefan Johansson
+h: Peter Lidman
+
+
+ab-cd 17-21
+ef-gh 15-21
+
+ac-fg 21-15
+bh-de 19-21
+
+ah-cg 21-16
+be-df 22-24
+
+ad-ce 22-24
+bg-fh 12-21
+
+
+2013-03-08 B#147
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Anders Martinsson
+
+ac-bd 21-9
+ad-bc 21-12
+cd-ab 21-19
+ac-bd 21-17
+bc-ad 21-17
+
+
+2013-03-15 B#148
+--------------------------
+a: Anders Martinsson
+b: Gustav Jansson
+c: Stig Agnar
+d: Fredrik Gustavsson
+e: Peter Lidman
+f: Gustav Bengtsson
+g: Lars-Olof Aridun
+h: Stefan Johansson
+
+ab-cd 19-21
+ef-gh 21-19
+
+eg-fh 19-21
+ad-bc 13-21
+
+ac-bd 14-21
+eh-fg 21-14
+
+b-h 17-21
+a-c 21-15
+d-e 9-21
+
+
+2013-03-22 B#149
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Anders Martinsson
+e: Christer Lund
+f: Gustav Jansson
+g: Gustav Bengtsson
+h: Stefan Johansson
+i: Peter Engström
+x: Peter Lidman
+
+ab-cf 14-21
+xg-de 21-18
+h-i 13-21
+
+hg-xc 13-21
+ib-ea 21-14
+d-f 21-17
+
+x-c 21-5
+fh-di 21-13
+ag-be 18-21
+ae-bg 21-16
+
+a-h 11-4
+x-d 11-7
+
+dx-ci 21-18
+h-f 21-19
+
+
+2013-03-28 B#150
+--------------------------
+a: Stig Agnar
+b: Anders Martinsson
+c: Gustav Bengtsson
+d: Gustav Jansson
+e: Peter Engström
+f: Peter Lidman
+
+ad-bc 11-5
+ad-cf 11-5
+af-cd 11-9
+b-e 19-21
+bf-ec 21-15
+a-d 15-21
+a-b 21-14
+cf-de 13-21
+d-e 21-17
+cf-ab 19-21
+e-d 10-12
+
+
+2013-04-05 B#151
+--------------------------
+a: Stig Agnar
+b: Stefan Johansson
+c: Fredrik Gustavsson
+d: Terje Vikingsson
+e: Anders Klavmark
+f: Peter Lidman
+
+f-b 21-15
+ad-ce 10-21
+
+a-c 21-16
+fe-bd 21-15
+
+d-e 4-21
+bc-fa 18-21
+
+a-b 15-21
+cf-de 21-18
+
+
+2013-04-12 B#152
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Terje Vikingsson
+d: Anders Klavmark
+
+bd-ac 21-16
+ab-cd 21-19
+ad-bc 21-12
+bd-ac 21-18
+
+
+2013-04-19 B#153
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Lidman
+d: Joakim Boström
+
+bc-ad 7-21
+bd-ac 21-18, 21-18, 21-16
+c-d 2-11, 10-12
+a-b 21-6
+
+
+2013-04-26 B#154
+--------------------------
+a: Stig Agnar
+b: Peter Lidman
+
+a-b 18-21, 21-17, 21-7, 5-11
+
+
+2013-05-03 B#155
+--------------------------
+a: Christer Lund
+b: Terje Vikingsson
+c: Anders Klavmark
+d: Pia Karlsson
+e: Peter Lidman
+
+bc-de 9-11
+ab-cd 5-11
+ad-be 7-11
+ac-be 6-11
+de-ac 7-11
+
+
+2013-05-08 B#156
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Joakim Boström
+d: Peter Lidman
+
+ad-bc 21-17, 21-17, 20-22
+ac-bd 21-11
+
+
+2013-05-17 B#157
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Gustav Jansson
+e: Martin Karsberg
+f: Pia Karlsson
+g: Jörgen Sedin
+h: Peter Lidman
+
+ab-cd 19-21
+
+fh-eg 21-12
+ac-bd 21-12
+
+df-be 21-15
+ch-ag 21-13
+
+a-d 21-17
+bf-eg 12-21
+c-h 7-21
+
+de-bg 21-17
+a-c 8-11
+
+
+2013-05-31 B#158
+--------------------------
+a: Lars-Olof Aridun
+b: Fredrik Gustavsson
+c: Jörgen Sedin
+d: Martin Karsberg
+e: Peter Lidman
+f: Gustav Jansson
+
+ac-bd 10-21, 11-9
+e-f 12-21
+
+ce-df 17-21
+a-b 13-21
+
+be-af 21-12
+
+ab-cd 21-11
+e-f 21-18
+
+
+2013-06-14 B#159
+--------------------------
+a: Stig Agnar
+d: Gustav Jansson
+c: Jörgen Sedin
+e: Peter Lidman
+
+ab-cd 21-15, 18-21
+ad-bc 21-12
+ac-bd 11-21
+c-d 6-21
+a-b 18-21
+
+
+2013-06-28 B#160
+--------------------------
+a: Stig Agnar
+d: Gustav Jansson
+c: Fredrik Gustavsson
+e: Peter Lidman
+
+ab-cd 21-23
+ac-bd 19-21
+ad-bc 15-21, 21-13, 21-13
+
+
+2013-07-05 B#161
+--------------------------
+a: Stig Agnar
+b: Stefan Johansson
+c: Jörgen Sedin
+d: Peter Lidman
+e: Fredrik Gustavsson
+
+ac-bd 8-11
+ae-cd 11-6
+ab-de 11-6
+ae-bc 5-11
+be-cd 11-4
+ad-bc 11-3
+ac-de 9-11
+ad-be 11-3
+ab-ce 12-10
+bc-de 9-11
+
+
+2013-08-23 B#162
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Martin Karsberg
+d: Peter Lidman
+
+bd-ac 21-9, 21-15
+ab-cd 13-21, 22-20
+ad-bc 21-9
+
+
+2013-08-30 B#163
+--------------------------
+a: Stig Agnar
+b: Anders Martinsson
+c: Peter Lidman
+d: Lars-Olof Aridun
+e: Mosawer Ahmad
+f: Anders Klavmark
+
+c-e 21-11
+bf-ad 21-12
+
+ae-cd 21-9
+
+bc-ef 9-21
+
+af-bc 17-21
+
+
+2013-09-06 B#164
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Martin Karsberg
+d: Mosawer Ahmad
+e: Jörgen Sedin
+f: Peter Lidman
+g: Anders Martinsson
+
+e-b 11-7
+e-c 9-11
+c-b 11-4
+af-dg 21-12
+
+a-d 11-6
+f-a 13-11
+bg-ec 21-12
+
+bd-eg 21-16
+c-f 7-11
+cd-bf 21-17
+
+cf-de 21-12
+a-g 11-9, 9-11
+a-e 11-6
+
+
+2013-09-13 B#165
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Peter Lidman
+
+cd-ab 21-11, 21-14
+ac-bd 21-8
+ad-bc 21-14
+
+
+2013-09-20 B#166
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Peter Lidman
+
+ab-cd 19-21, 17-21
+ac-bd 18-21
+ad-bc 21-11
+
+
+2013-09-27 B#167
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Anders Martinsson
+d: Peter Lidman
+
+ac-bd 19-21, 21-16
+ab-cd 18-21
+ad-bc 21-14
+
+
+2013-10-04 B#168
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Martin Karsberg
+d: Peter Lidman
+
+ac-bd 21-19, 25-23
+cd-ab 21-19
+ad-bc 21-4
+
+
+2013-10-11 B#169
+--------------------------
+a: Stig Agnar
+b: Martin Karsberg
+c: Bernt Svedberg
+d: Pia Karlsson
+e: Fredrik Gustavsson
+f: Peter Lidman
+g: Anders Martinsson
+h: Lars-Olof Aridun
+
+ae-gh 21-15
+eh-bd 21-15
+ac-bh 10-21
+df-eg 17-21
+
+ce-ah 8-21
+dg-bf 13-21
+
+ad-eh 21-17
+fc-bg 8-21
+
+a-g 21-19
+
+
+2013-10-18 B#170
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Martin Karsberg
+d: Jörgen Sedin
+e: Fredrik Gustavsson
+f: Peter Lidman
+
+a-f 21-7, 12-10
+be-cd 21-18
+
+d-e 10-21
+ab-cf 21-19
+
+dc-af 21-18
+b-c 7-21
+
+bf-ce 9-21
+a-d 21-9
+
+
+2013-11-01 B#171
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Lars-Olof Aridun
+d: Peter Michael
+e: Peter Lidman
+f: Emil Boström
+
+be-cd 21-5
+ad-bc 21-14
+
+ac-df 23-21
+
+b-e 12-21, 6-12
+de-cf 11-21
+
+
+2013-11-08 B#172
+--------------------------
+a: Stig Agnar
+b: Martin Karsberg
+c: Jenny Svärd
+d: Peter Lidman
+e: Lars-Olof Aridun
+f: Peter Michael
+
+ab-ef 21-18
+
+a-b 21-9
+cd-ef 21-16
+
+e-f 21-10
+cd-ab 18-21
+
+ab-df 21-12
+
+
+2013-11-15 B#173
+--------------------------
+a: Stig Agnar
+b: Martin Karsberg
+c: Mosawer Ahmad
+d: Peter Michael
+
+ac-bd 21-15, 21-7 
+ad-bc 21-17
+ab-cd 16-21, 21-17
+
+
+2013-11-22 B#174
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Peter Michael
+e: Peter Lidman
+f: Gustav Bengtsson
+
+a-e 21-16
+bd-cf 21-16
+
+ad-eb 18-21
+
+ac-ef 17-21
+b-d 21-18
+
+bc-df 21-11
+a-e 16-21
+
+
+2013-11-29 B#175
+--------------------------
+a: Christer Lund
+b: Mosawer Ahmad
+c: Gustav Bengtsson
+d: Lars-Olof Aridun
+e: Stig Agnar
+f: Peter Lidman
+g: Peter Michael
+
+c-df 9-11
+cf-d 10-12
+ae-bg 21-18
+
+df-ce 21-16
+ab-g 11-9
+ag-b 4-11
+
+bd-cf 21-19
+ag-e 8-11
+ae-g 11-7
+
+ac-de 14-21
+b-df 11-9
+
+eg-ac 21-14
+bg-ad 21-14
+
+e-f 21-8
+
+
+2013-12-19 B#176
+--------------------------
+a: Lars-Olof Aridun
+b: Björn Andersson
+c: Peter Lidman
+d: Pia Karlsson
+e: Martin Karsberg
+f: Gustav Bengtsson
+
+ad-ef 17-21
+
+bc-ad 21-15
+e-f 21-7
+
+bc-ef 21-17
+
+b-c 9-21
+
+
+2014-01-10 B#177
+--------------------------
+a: Stig Agnar
+b: Fredrik Gustavsson
+c: Peter Michael
+d: Peter Lidman
+
+ad-bc 21-11, 11-6
+ab-cd 21-14, 11-4
+ac-bd 15-21, 9-11
+
+
+2014-01-17 B#178
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Fredrik Gustavsson
+d: Gustav Jansson
+e: Peter Lidman
+f: Gustav Bengtsson
+g: David Käck
+h: Peter Michael
+i: Mosawer Ahmad
+j: Martin Karsberg
+
+hi-fj 21-11
+ac-be 21-19
+d-g 15-21
+
+bd-ci 17-21
+fg-hj 21-11
+a-e 21-11
+
+ae-dg 21-17
+bc-fi 21-18
+h-j 5-21
+
+d-a 16-21
+ij-fc 11-21
+gh-eb 11-21
+
+
+2014-01-24 B#179
+--------------------------
+a: Stig Agnar
+b: Gustav Bengtsson
+c: Martin Karsberg
+d: Peter Lidman
+e: Pia Karlsson
+f: Peter Michael
+g: Lars-Olof Aridun
+h: Lenn Näsström
+
+c-e 21-5
+ab-fg 21-17
+
+dh-ce 17-21
+ag-bf 21-9
+af-bg 11-6
+
+ah-be 15-21
+cg-df 19-21
+
+dh-bc 16-21
+ag-ef 21-7
+fg-ae 11-9
+
+
+2014-01-30 B#180
+--------------------------
+a: Stig Agnar
+b: Peter Lidman
+c: Peter Michael
+d: Lars-Olof Aridun
+
+ad-bc 21-18, 14-21
+ac-bd 15-21
+ab-cd 21-9
+
+
+2014-02-07 B#181
+--------------------------
+a: Peter Lidman
+b: Malin Sundin
+c: Lenn Näsström
+d: Gustav Bengtsson
+e: Lars-Olof Aridun
+f: Christer Lund
+
+ce-df 22-20
+
+ab-cd 21-2
+
+ab-ef 19-21
+
+
+2014-02-21 B#182
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Gustav Jansson
+e: Jörgen Sedin
+f: Peter Michael
+g: Peter Lidman
+h: Malin Sundin
+i: Christer Lund
+j: Lenn Näsström
+
+bc-gh 13-21
+ef-ij 21-18
+d-a 21-19
+
+h-b 21-13
+ae-ig 16-21
+cf-jd 21-19
+
+f-b 21-11
+a-g 17-21
+h-d 6-21
+ij-ce 10-21
+
+
+2014-02-28 B#183
+--------------------------
+a: Gustav Bengtsson
+b: Christer Lund
+c: Peter Michael
+d: Malin Sundin
+e: Peter Lidman
+
+ab-cd 11-7, 6-11
+ab-de 1-11
+ad-ce 5-11, 6-11, 7-11
+be-ac 8-11
+be-cd 11-6
+
+
+2014-03-07 B#184
+--------------------------
+a: Gustav Jansson
+b: Lars-Olof Aridun
+c: Lenn Näsström
+d: Peter Lidman
+
+ab-cd 21-11, 21-15
+ac-bd 15-21
+a-d 21-19
+b-c 21-8
+
+
+2014-03-14 B#185
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Lenn Näsström
+e: Peter Lidman
+f: Mosawer Ahmad
+
+a-e 20-22
+fd-bc 21-14
+
+ec-af 18-21
+b-d 21-6
+
+e-f 21-14
+ad-bc 19-21
+
+
+2014-03-21 B#186
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Joachim Hagedorn
+e: Lenn Näsström
+f: Daniel Forsberg
+g: Christer Lund
+h: Peter Lidman
+
+ch-df 21-19
+ae-bg 21-13
+
+he-dg 9-21
+bc-af 13-21
+
+a-c 21-15
+d-f 21-14
+f-a 21-9
+c-d 21-18
+
+
+2014-03-28 B#187
+--------------------------
+a: Christer Lund
+b: Stig Agnar
+c: Lars-Olof Aridun
+d: Peter Michael
+e: Lenn Näsström
+f: Daniel Forsberg
+g: Joachim Hagedorn
+h: Gustav Bengtsson
+
+bh-ce 21-14
+fa-gd 10-21
+
+ef-ah 21-15
+gc-bd 21-16
+
+ac-be 21-8
+gh-fd 12-21
+
+bh-ce 21-14
+af-gd 17-21
+
+
+2014-04-11 B#188
+--------------------------
+a: Stig Agnar
+b: Gustav Jansson
+c: Peter Lidman
+d: Lenn Näsström
+e: Lars-Olof Aridun
+f: Christer Lund
+
+bf-ae 15-21
+
+b-f 21-5
+cd-ae 12-21
+
+cd-bf 16-21
+a-e 21-7
+
+a-b 22-20
+cd-ef 9-21
+
+
+2014-04-17 B#189
+--------------------------
+a: Martin Karsberg
+b: Mosawer Ahmad
+c: Peter Lidman
+d: Stig Agnar
+e: Lars-Olof Aridun
+f: Lenn Näsström
+
+ab-cd 15-21
+e-f 21-9
+
+bf-ae 18-21
+c-d 16-21
+
+ce-fd 21-8
+a-b 13-21
+
+df-ab 9-21
+e-c 5-21
+
+
+2014-04-25 B#190
+--------------------------
+a: Stig Agnar
+b: Lenn Näsström
+c: Peter Michael
+d: Gustav Bengtsson
+e: Peter Lidman
+f: Joachim Hagedorn
+g: Daniel Forsberg
+
+ae-fg 22-20, 21-18, 21-18
+bd-c 15-21
+bc-d 22-20
+bd-c 17-21
+
+
+2014-04-30 B#191
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Michael
+d: Peter Lidman
+e: Lenn Näsström
+f: Gustav Bengtsson
+
+a-d 21-12, 11-6
+be-cf 15-21, 9-11
+
+ab-df 21-14
+
+ac-de 21-8
+
+
+2014-05-16 B#192
+--------------------------
+a: Stig Agnar
+b: Peter Michael
+c: Gustav Bengtsson
+d: Gustav Jansson
+e: Peter Lidman
+f: Lenn Näsström
+
+a-d 15-21
+bc-ef 16-21
+
+b-e 7-21
+cd-af 21-7
+
+be-ad 15-21
+
+d-e 21-7
+ac-bf 21-14
+
+
+2014-05-23 B#193
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Lenn Näsström
+e: Peter Lidman
+
+ad-be 9-11, 5-11
+ab-ce 10-12, 11-7
+be-cd 11-1
+ce-ad 11-5
+cd-ab 5-11
+
+
+2014-06-05 B#194
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Mosawer Ahmad
+d: Peter Michael
+e: Peter Lidman
+
+ab-cd 11-7
+
+de-bc 5-11
+
+ce-ad 11-8
+
+be-ad 8-11
+
+ac-be 13-11
+
+ac-bd 11-9
+
+bd-ce 3-11
+
+ae-cd 11-8
+
+ab-de 9-11
+
+
+2014-06-13 B#195
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Michael
+d: Lenn Näsström
+e: Anders Klavmark
+f: Peter Lidman
+
+ad-bc 14-21, 17-21
+e-f 17-21, 19-21
+
+ce-df 21-15
+a-b 21-7, 11-5
+
+ae-bf 26-24
+c-d 21-9
+
+
+2014-06-19 B#196
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Michael
+d: Peter Lidman
+
+bd-ac 21-19, 21-16
+
+ad-bc 21-5
+
+ab-cd 21-7
+
+
+2014-08-15 B#197
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+d: David Käck
+e: Fredrik Gustavsson
+f: Peter Lidman
+
+ae-df 4-11
+af-bd 11-4
+ef-ab 11-2
+ad-be 11-5
+bf-de 5-11
+ad-ef 11-9
+ab-df 4-11
+ae-bf 5-11
+
+
+2014-08-22 B#198
+--------------------------
+a: Stig Agnar
+b: Christer Lund
+c: David Käck
+d: Peter Lidman
+
+bd-ac 13-21
+ab-cd 6-21
+ad-bc 21-15, 21-12
+
+
+2014-09-05 B#199
+--------------------------
+a: Peter Michael
+b: Lenn Näsström
+c: Lars-Olof Aridun
+d: Christer Lund
+e: Peter Lidman
+f: Gustav Jansson
+
+ab-cd 17-21
+e-f 15-21
+
+ae-bf 21-11
+
+ec-df 21-11
+
+be-ac 11-21
+
+
+2014-09-12 B#200
+--------------------------
+a: Peter Oja
+b: Lenn Näsström
+c: Peter Michael
+d: Gustav Bengtsson
+e: Gustav Jansson
+f: Christer Lund
+g: Lars-Olof Aridun
+h: Peter Lidman
+
+ab-cd 9-21
+ef-gh 14-21
+
+ac-bd 21-19
+eg-fh 21-15
+
+ah-de 14-21
+bg-cf 12-21
+
+ad-eh 10-21
+ae-dh 19-21
+
+bc-fg 12-21
+cg-bf 21-7
+
+
+2014-09-19 B#201
+--------------------------
+a: Stig Agnar
+b: Christer Lund
+c: Lars-Olof Aridun
+
+ab-c 21-18
+bc-a 11-21
+ac-b 21-14
+ab-c 21-14
+
+
+2014-10-03 B#202
+--------------------------
+a: Christer Lund
+b: Lars-Olof Aridun
+c: Lenn Näsström
+d: Peter Lidman
+
+ad-bc 21-15
+ab-cd 21-18, 21-16
+
+
+2014-10-10 B#203
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+e: Lenn Näsström
+f: Christer Lund
+
+ac-bd 21-19
+de-bf 13-21
+a-c 20-22
+af-ce 21-12
+
+
+2014-10-17 B#204
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Bengtsson
+d: Peter Lidman
+
+ab-cd 21-5, 21-10, 21-7, 13-21
+
+
+2014-10-24 B#205
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Gustav Jansson
+d: Peter Lidman
+
+ac-bd 21-13
+ab-cd 10-21
+ad-bc 21-15, 21-16
+
+
+2014-11-07 B#206
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Lenn Näsström
+d: Peter Lidman
+
+bd-ac 21-10, 21-8
+ab-cd 21-12, 21-9
+ad-bc 21-3
+
+
+2014-11-14 B#207
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Christer Lund
+d: Lenn Näsström
+e: Peter Lidman
+
+ad-bc 11-5, 11-7
+bd-ce 4-11
+de-ac 5-11
+ad-be 3-11
+ab-ce 11-5
+
+
+2014-11-21 B#208
+--------------------------
+a: Christer Lund
+b: Peter Michael
+c: Mosawer Ahmad
+d: Lenn Näsström
+e: Peter Lidman
+
+ac-bd 11-6
+bc-de 11-3
+ae-cd 11-7
+ab-de 11-8
+ac-be 8-11
+
+
+2014-11-28 B#209
+--------------------------
+a: Lars-Olof Aridun
+b: Peter Michael
+
+b-a 21-15, 6-11
+
+
+2015-01-16 B#210
+--------------------------
+a: Stig Agnar
+b: Christer Lund
+c: Lenn Näsström
+d: Peter Lidman
+e: Gustav Bengtsson
+f: Gustav Jansson
+
+be-cd 21-14
+a-f 18-21
+
+bf-ad 17-21
+
+cf-ae 21-19
+
+
+2015-02-20 B#211
+--------------------------
+a: Gustav Bengtsson
+b: Peter Michael
+c: Lars-Olof Aridun
+d: Peter Lidman
+
+bd-ac 21-18
+ad-bc 22-20
+ab-cd 11-21
+
+
+2015-03-06 B#212
+--------------------------
+a: Per Stollenwerk
+b: Peter Lidman
+c: Peter Michael
+d: Lars-Olof Aridun
+e: Gustav Bengtsson
+
+ad-be 11-9
+bc-ae 11-6
+ab-cd 11-9
+cd-be 8-11
+ae-cd 6-11
+ab-de 11-3
+
+
+2015-03-13 B#213
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Oja
+d: Peter Michael
+e: Katarina Enblom
+f: Peter Lidman
+
+ac-bd 21-16
+
+bd-ef 15-21
+a-c 21-10
+
+ab-ef 14-21
+b-d 21-14
+
+a-d 11-3
+a-b 6-11
+
+
+2015-03-20 B#214
+--------------------------
+a: Stig Agnar
+b: Per Stollenwerk
+c: Katarina Enblom
+d: Peter Michael
+e: Peter Lidman
+
+ad-bc 11-9
+ac-be 8-11
+ab-de 11-8
+ad-ce 5-11
+bc-dec 11-4
+
+a-b 6-11, 10-12
+c-e 2-11
+d-e 5-11
+
+
+2015-03-27 B#215
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Peter Michael
+d: Peter Lidman
+
+ac-bd 16-21, 22-20
+ab-cd 21-16
+ad-bc 21-3
+
+
+2015-04-10 B#216
+--------------------------
+a: Stig Agnar
+b: Lars-Olof Aridun
+c: Per Stollenwerk
+d: Peter Lidman
+
+ab-cd 8-21
+ac-bd 21-19, 21-13
+ad-bc 21-9
+
