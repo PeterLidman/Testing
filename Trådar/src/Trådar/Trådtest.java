@@ -1,3 +1,4 @@
+package Trådar;
 
 public class Trådtest extends Thread {
 	private int _start;
