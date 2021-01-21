@@ -6,7 +6,6 @@ def possible(y, x, n):
     for i in range(0, 9):
         if grid[y][i] == n:
             return False
-    for i in range(0, 9):
         if grid[i][x] == n:
             return False
     x0 = (x//3)*3
